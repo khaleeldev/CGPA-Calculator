@@ -1,0 +1,7 @@
+{
+  "name": "CGPA Calculator",
+  "description": "Academic CGPA calculator with local history tracking and customizable grading scales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
